@@ -13,6 +13,10 @@ By participating in this course, students will be able to...
 - Artificial Intelligence for Medicine
     - Use natural language processing to extract information from clinical text
     - Build and evaluate machine learning models for predicting disease states or patient outcomes
+    
+## Fees
+
+There is no cost to this course for University of Melbourne medical students.
 
 ## Dates and Times
 
@@ -25,7 +29,7 @@ The course will be taught online with Zoom using a combination of synchronous an
 
 ## Pre-requisites
 
-There are no formal pre-requisites for this course. However, prior to starting the course, the students must have completed the following three items:
+Prior to starting the course, the students must have completed the following three items:
 
 - Complete the [Massachusetts Institute of Technology Affiliates](https://www.citiprogram.org/index.cfm?pageID=154&icat=0&ac=0) ethics training. Completion of this course is necessary in order to be granted access to the MIMIC III data set.
 - [Submit request](https://physionet.org/content/mimiciii/) for access to MIMIC III.
@@ -41,3 +45,13 @@ For further information or to enroll in the course, e-mail Dr. Chapman at <brian
 - Brian E. Chapman, Ph.D., Associate Professor, Medical Education
 - Daniel Capurro, M.D./Ph.D., Senior Lecturer, Computing And Information Systems
 
+### Additional Instructors
+
+- Graeme Hart, MBBS
+
+## Schedule
+
+- [Day 1: Building Patient Cohorts from Relational Databases](day1.md)
+- [Day 2: Working with Textual Data](day2.md)
+- [Day 3: Building Statistical Classifiers to Predict In-Hospital Mortality](day3.md)
+- [Day 4: Interpreting Classifier Performance and Building Decision Support Systems](day4.md)
