@@ -34,7 +34,7 @@ There are no formal pre-requisites for this course. However, prior to starting t
 
 Enrollment is limited to 30 students.
 
-For further information or to enroll in the course, e-mail Dr. Chapman at [mailto](mailto:brian.chapman@unimelb.edu.au)
+For further information or to enroll in the course, e-mail Dr. Chapman at <brian.chapman@unimelb.edu.au>.
 
 ## Course Directors
 
