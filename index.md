@@ -16,7 +16,7 @@ By participating in this course, students will be able to...
     
 ## Fees
 
-There is no cost for this course for students enrolled in a health sciences degree program at the University of Melbourne medical.
+There is no cost for this course. The course is open to all students and staff at the University of Melbourne interested in performing data-driven clinical research. Some basic knowledge of clinical healthcare is assumed. 
 
 ## Dates and Times
 
@@ -36,9 +36,9 @@ Prior to starting the course, the students must have completed the following thr
 - Complete the [DataCamp free Introduction to Python course](https://learn.datacamp.com/courses/intro-to-python-for-data-science)
 - [Create a Google Cloud account](https://cloud.google.com/) (we may not use this, if we get the database instantiated at the MRC)
 
-Enrollment is limited to 30 students.
+Enrollment is limited to 40 students.
 
-For further information or to enroll in the course, e-mail Dr. Chapman at <brian.chapman@unimelb.edu.au>.
+Registration is done through eventbrite.com.au. For further information about the course or for a link to the registration site, e-mail Dr. Chapman at <brian.chapman@unimelb.edu.au>.
 
 ## Course Directors
 
