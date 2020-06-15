@@ -1,7 +1,7 @@
 # Introduction to Clinical Data Science Research
 
 
-The [Centre for the Digital Transformation of Health](https://mdhs.unimelb.edu.au/our-organisation/institutes-centres-departments/habic) and the [Melbourne Centre for Data Science](https://science.unimelb.edu.au/mcds) is offering a short course introducing medical students to data-driven clinical research using the [MIMIC III data set](https://mimic.physionet.org/). MIMIC III is a research database containing the de-identified medical records for roughy 60 000 ICU patients. It is perhaps the most valuable publicly available resource for conducting retrospective clinical research.
+The [Centre for the Digital Transformation of Health](https://mdhs.unimelb.edu.au/our-organisation/institutes-centres-departments/habic) and the [Melbourne Centre for Data Science](https://science.unimelb.edu.au/mcds) is offering a short course introducing students in the health sciences to data-driven clinical research using the [MIMIC III data set](https://mimic.physionet.org/). MIMIC III is a research database containing the de-identified medical records for roughy 60 000 ICU patients. It is perhaps the most valuable publicly available resource for conducting retrospective clinical research.
 
 By participating in this course, students will be able to...
 
@@ -16,7 +16,7 @@ By participating in this course, students will be able to...
     
 ## Fees
 
-There is no cost to this course for University of Melbourne medical students.
+There is no cost for this course for students enrolled in a health sciences degree program at the University of Melbourne medical.
 
 ## Dates and Times
 
