@@ -6,7 +6,7 @@ The [Centre for the Digital Transformation of Health](https://mdhs.unimelb.edu.a
 By participating in this course, students will be able to...
 
 - Clinical Data
-    - Describe the differences between how data are stored in an EHR versus a clinical data warehouses and why data warehousing is important for clinical research
+    - Describe the importance of data warehousing for clinical research
     - Create patient cohorts by defining phenotypes and executing queries to extract data for these cohorts
 - Data Analytics
     - Apply statistical and visual analytics to gain insight from clinical data.
