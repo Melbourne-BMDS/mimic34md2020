@@ -36,9 +36,11 @@ Prior to starting the course, the students must have completed the following thr
 - Complete the [DataCamp free Introduction to Python course](https://learn.datacamp.com/courses/intro-to-python-for-data-science)
 - [Create a Google Cloud account](https://cloud.google.com/) (we may not use this, if we get the database instantiated at the MRC)
 
-Enrollment is limited to 40 students.
+## Enrollment
 
-Registration is done through eventbrite.com.au. For further information about the course or for a link to the registration site, e-mail Dr. Chapman at <brian.chapman@unimelb.edu.au>.
+- Enrollment is limited to 40 students.
+
+- Registration is done through eventbrite.com.au. For further information about the course or for a link to the registration site, e-mail Dr. Chapman at <brian.chapman@unimelb.edu.au>.
 
 ## Course Directors
 
