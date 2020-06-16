@@ -50,6 +50,7 @@ Prior to starting the course, the students must have completed the following thr
 ### Additional Instructors
 
 - Graeme Hart, MBBS
+- Timothy Fazio, MBBS, MIS
 
 ## Schedule
 
