@@ -20,7 +20,7 @@ There is no cost for this course. The course is open to all students and staff a
 
 ## Dates and Times
 
-- The course will run from Tuesday 23 June through Friday 26 June
+- The course will run from Monday 29 June through Thursday 2 July.
 - Synchronous sessions will start at 9:00 AM
 
 ## Course Format
