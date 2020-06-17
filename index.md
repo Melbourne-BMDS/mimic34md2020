@@ -13,10 +13,10 @@ By participating in this course, students will be able to...
 - Artificial Intelligence for Medicine
     - Use natural language processing to extract information from clinical text
     - Build and evaluate machine learning models for predicting disease states or patient outcomes
-    
+
 ## Fees
 
-There is no cost for this course. The course is open to all students and staff at the University of Melbourne interested in performing data-driven clinical research. Some basic knowledge of clinical healthcare is assumed. 
+There is no cost for this course. The course is open to all students and staff at the University of Melbourne interested in performing data-driven clinical research. Some basic knowledge of clinical healthcare is assumed.
 
 ## Dates and Times
 
@@ -32,6 +32,10 @@ The course will be taught online with Zoom using a combination of synchronous an
 Prior to starting the course, the students must have completed the following three items:
 
 - Complete the [Massachusetts Institute of Technology Affiliates](https://www.citiprogram.org/index.cfm?pageID=154&icat=0&ac=0) ethics training. Completion of this course is necessary in order to be granted access to the MIMIC III data set.
+    - Be sure to select Affiliate and not SSO
+    - Do not register as an independent learner
+    - Your seleciton should look like the following
+![MIT CITI selections](./media/citi_mit.png)
 - [Submit request](https://physionet.org/content/mimiciii/) for access to MIMIC III.
 - Complete the [DataCamp free Introduction to Python course](https://learn.datacamp.com/courses/intro-to-python-for-data-science)
 - [Create a Google Cloud account](https://cloud.google.com/) (we may not use this, if we get the database instantiated at the MRC)
