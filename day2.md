@@ -5,3 +5,7 @@
 1. Word2Vec
 1. Information extraction
 1. Document classification
+
+
+# Bayes' Theorem
+
