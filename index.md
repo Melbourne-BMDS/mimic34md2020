@@ -62,3 +62,5 @@ Prior to starting the course, the students must have completed the following thr
 - [Day 2: Working with Textual Data](day2.md)
 - [Day 3: Building Statistical Classifiers to Predict In-Hospital Mortality](day3.md)
 - [Day 4: Interpreting Classifier Performance and Building Decision Support Systems](day4.md)
+
+## [Learn How people are using MIMIC III for research](example_mimiciii_projects.md)
