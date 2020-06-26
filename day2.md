@@ -7,7 +7,7 @@
     1. Rule-based Documentation Classification
     
 ## Vector Representation of Documents (Brian Chapman)
-1. What is a Vector?
+1. What is a Vector? (1:00 PM)
 1. Defining a Vocabulary?
 1. Creating your vectors?
 1. Dimensionality Reduction
