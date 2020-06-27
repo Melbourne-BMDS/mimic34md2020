@@ -1,4 +1,6 @@
-# Working with Clinical Textual Data
+# Day2-Working with Clinical Textual Data
+- Zoom Link is posted on Slack channel for the class.
+
 
 ## What I do with NLP (recorded lecture)
 
@@ -15,7 +17,7 @@
 
 ## Annotation with Prodigy: Annotate short snippets using the i2b2 schema in Example #3. See screenshots below
     
-# Tools for Reproducible Data Research
+# Tools for Reproducible Data Research (2:00 PM)
 
 1. Version Control with Git (Just enough to make you crazy)
 1. Virtual Environments
