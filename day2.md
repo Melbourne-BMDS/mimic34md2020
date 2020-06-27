@@ -1,18 +1,27 @@
 # Working with Clinical Textual Data
 
-1. Text Data in MIMIC III (9:00 AM Brian)
-1. Working with Spacy (Alec Chapman)
-    1. Basic NLP workflow with Spacy 
-    1. NegEx/ConText
-    1. Rule-based Documentation Classification
+## What I do with NLP (recorded lecture)
+
+## Intro to spaCy
+1. General usage
+1. Examples on news text
+1. Why it doesn't work with clinical text
+
+## MedSpaCy
+1. General usage, clinical pipeline components
+1. Example: SSI from radiology
+1. Example: COVID-19 from clinical text
+1. Example: Extracting problems, treatments, and tests from MIMIC discharge summaries with a pre-trained model
+
+## Annotation with Prodigy: Annotate short snippets using the i2b2 schema in Example #3. See screenshots below
     
-## Vector Representation of Documents (Brian Chapman)
-1. What is a Vector? (1:00 PM)
-1. Defining a Vocabulary?
-1. Creating your vectors?
-1. Dimensionality Reduction
-1. Using pretrained word2vec models
-    1. NLPre
-    1. Word2Vec
-    1. Bert
+# Tools for Reproducible Data Research
+
+1. Version Control with Git (Just enough to make you crazy)
+1. Virtual Environments
+1. Docker
+1. Documentation
+    1. [LabArchives](https://aushib.labarchives.com/)
+    1. [OpenScienceFramework](https://osf.io/)
+
 
