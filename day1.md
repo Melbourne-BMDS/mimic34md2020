@@ -10,7 +10,7 @@
 1. Data, Information, and Databases
   1. Querying the MIMIC III Data Set with Ibis (Introduction and then self guided work, Brian Chapman)
   
-##  Digital Data at the Royal Melbourne Hospital (Live Talk Via Zoom (Tim Fazio 20-30)
+##  Digital Data at the Royal Melbourne Hospital (Live Talk Via Zoom by Tim Fazio 20-30)
 
   
 ## Summarizing Your Data (live session starting at 2:00 PM)
