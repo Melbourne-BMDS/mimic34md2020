@@ -15,5 +15,6 @@
   
 ## Summarizing Your Data (live session starting at 2:00 PM)
 1. The importance of examining your data
+1. Exploratory data analysis using Pandas (Daniel Capurro)
 1. Interactive plotting with HvPlot (Brian Chapman)
-1. Using Pandas to generate summary statistics (Daniel Capurro)
+
