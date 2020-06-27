@@ -17,7 +17,7 @@
 1. ROC Curves and the AUC
 1. PPV/NPV
 
-## Building Your First Classification Models (2:00 PM)
+## Building Bayesian Classification Models (2:00 PM)
 
 1. Bayes' Theorem (Brian Chapman)
 1. Naive Bayes Classifier (Nathaniel Carpenter)
