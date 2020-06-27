@@ -1,7 +1,11 @@
-# Logistic Regression for predicting early ICU death (Brian Chapman) (9:00 AM)
+# Day 4---Decision Trees and Infrastructure
 
-# Decision Trees and Random Forests (Daniel Capurro) (1:00 PM) 
+## Building Decision Tree and Random Forest Classifiers (Daniel Capurro) (9:00 AM) 
 
+## Accessing Resources (2:00 PM)
+
+1. Accessing MIMIC III on Google Cloud
+1. Accessing MIMIC III on AWS
 
 ## Future Hot topics we didn't talk about
 
