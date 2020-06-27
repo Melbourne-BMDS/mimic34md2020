@@ -1,5 +1,8 @@
 # Using Data to Predict Clinical Outcomes (9:00 AM)
 
+- Zoom Link is posted on Slack channel for the class.
+
+
 ## Introduction to Example Problem
 1. Predicting early ICU Death (Daniel Capurro 20-30 minutes)
 1. Defining Your Phenotypes (Daniel Capurro)
