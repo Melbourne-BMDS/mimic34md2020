@@ -2,10 +2,14 @@
 
 ## Building Decision Tree and Random Forest Classifiers (Daniel Capurro) (9:00 AM) 
 
+
+## Vector Represetation (Brian)
+
 ## Accessing Resources (2:00 PM)
 
 1. Accessing MIMIC III on Google Cloud
 1. Accessing MIMIC III on AWS
+1. Creating Resources
 
 ## Future Hot topics we didn't talk about
 
