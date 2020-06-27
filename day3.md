@@ -1,4 +1,4 @@
-# Using Data to Predict Clinical Outcomes (9:00 AM)
+# Day 3---Using Data to Predict Clinical Outcomes (9:00 AM)
 
 - Zoom Link is posted on Slack channel for the class.
 
