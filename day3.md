@@ -17,10 +17,16 @@
 1. ROC Curves and the AUC
 1. PPV/NPV
 
-## Building Bayesian Classification Models (2:00 PM)
+## MIMIC III Queries and Reproducible Science (2:00 PM)
 
-1. Bayes' Theorem (Brian Chapman)
-1. Naive Bayes Classifier (Nathaniel Carpenter)
-  1. Using Bag-of-Words Naive Bayes to identify pulmonary emboli 
-  1. Naive Bayes classifier for early ICU Death
+### Prior to the 2:00 PM Session Please Do the Following
+
+#### Community Tools
+- Create a [GitHub account](https://github.com/)
+  - There are alternatives such as [Bitbucket](https://bitbucket.org/), and [Gitlab.com](https://about.gitlab.com/)
+- Create an [Open Science Framework account](https://osf.io/)
+
+#### University of Melbourne-specific Tools
+- Login to the University of Melbourne [Gitlab instance](https://gitlab.unimelb.edu.au/users/sign_in)
+- Login to the University of Melbourne [LabArchive instance](https://aushib.labarchives.com/select_institution)
 
